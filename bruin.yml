@@ -1,0 +1,6 @@
+environments:
+  default:
+    connections:
+      duckdb:
+        - name: "duckdb_default"
+          path: "./nyc_taxi.duckdb"
